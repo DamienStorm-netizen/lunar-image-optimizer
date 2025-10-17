@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Image Optimizer
+Lunar Image Optimizer
 Converts images to WebP format, compresses, and resizes to user-specified width (default: 300px)
 Maintains high quality while minimizing file size
 """
